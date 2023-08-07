@@ -89,7 +89,7 @@ submitBtn.addEventListener('click', () => {
            loadQuiz()
        } else {
            quiz.innerHTML = `
-           <h2>Você repondeu ${score}/${quizData.length} perguntas corretamente ;)</h2>
+           <h2>Você repondeu ${score}/${quizData.length} perguntas corretamente ;)<img id="socorro" src="catjump.gif"></h2>
            <button onclick="location.reload()">Jogar Novamente</button>
            `
        }
