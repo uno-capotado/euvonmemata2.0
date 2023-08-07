@@ -27,7 +27,7 @@ const quiz = [
 
 const quizur = document.getElementById('quiz')
 const respostas = document.querySelectorAll('.resposta')
-const quizando = document.getElementById('questao')
+const quizando = document.getElementById('question')
 const textoa = document.getElementById('resposta_a')
 const textob = document.getElementById('resposta_b')
 const textoc = document.getElementById('resposta_c')
