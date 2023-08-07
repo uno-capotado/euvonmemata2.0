@@ -1,0 +1,19 @@
+quizdata = quiz
+quiz = quizur
+answerelS = respostas
+questionel = quizando
+a_text = textoa
+submit = reponder
+currentquiz = quiztotal
+score = score
+deselectanswers = naoselecionar
+currentquizdata = quizdata
+answer = resposta 
+
+
+
+
+class
+quizcontainer = bloco
+quizheader = topo
+answer = resposta
